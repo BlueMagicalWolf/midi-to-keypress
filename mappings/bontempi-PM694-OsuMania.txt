@@ -1,0 +1,23 @@
+//piano etc
+A3 4 d d
+B3 4 f f
+C4 4 j j
+D4 4 k k
+A3 0 d d
+B3 0 f f
+C4 0 j j
+D4 0 k k
+//piano alt keys
+F5 4 j j
+G5 4 k k
+F5 0 j j
+G5 0 k k
+//guitar etc
+A2 4 d d
+B2 4 f f
+C3 4 j j
+D3 4 k k
+A2 0 d d
+B2 0 f f
+C3 0 j j
+D3 0 k k
